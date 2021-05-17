@@ -1,0 +1,19 @@
+{
+  "name": "auxita-code-challenge-server",
+  "version": "1.0.0",
+  "description": "Axutia code challenge server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Oliver Brandon Bravo Cedillo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongo-sanitize": "^1.1.0",
+    "mongodb": "^3.6.6"
+  }
+}
