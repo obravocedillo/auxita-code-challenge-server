@@ -4,13 +4,13 @@
 Runs node index.js in port 8080
 
 ## Project description
+ 
+Auxita code challenge, web site for calculating hypertension and kidney disease. <br>
+Front-end url: https://nervous-shannon-7a78e0.netlify.app/hypertension-calculator <br>
+Front-end github repository: https://github.com/obravocedillo/auxita-code-challenge <br>
 
-Auxita code challenge, web site for calculating hypertension and kidney disease.
-Front-end url: https://nervous-shannon-7a78e0.netlify.app/hypertension-calculator
-Front-end github repository: https://github.com/obravocedillo/auxita-code-challenge
-
-Back-end url: http://auxitacodechallengeserver-env.eba-na8mjqqk.us-west-2.elasticbeanstalk.com
-Back-end github repository: https://github.com/obravocedillo/auxita-code-challenge-server
+Back-end url: http://auxitacodechallengeserver-env.eba-na8mjqqk.us-west-2.elasticbeanstalk.com <br>
+Back-end github repository: https://github.com/obravocedillo/auxita-code-challenge-server <br>
 
 Testing libraries:
 - Jest
