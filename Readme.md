@@ -11,6 +11,7 @@ Front-end github repository: https://github.com/obravocedillo/auxita-code-challe
 
 Back-end url: http://auxitacodechallengeserver-env.eba-na8mjqqk.us-west-2.elasticbeanstalk.com <br>
 Back-end github repository: https://github.com/obravocedillo/auxita-code-challenge-server <br>
+Back-end documentation: https://documenter.getpostman.com/view/11491178/TzRXA65L <br>
 
 Testing libraries:
 - Jest
