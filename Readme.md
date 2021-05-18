@@ -1,8 +1,3 @@
-## Available Scripts
-
-### npm start
-Runs node index.js in port 8080
-
 ## Project description
  
 Auxita code challenge, web site for calculating hypertension and kidney disease. <br>
@@ -31,3 +26,8 @@ Back-end:
 
 Database:
 - Mongo DB
+
+## Available Scripts
+
+### npm start
+Runs node index.js in port 8080
